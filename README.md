@@ -1,3 +1,10 @@
+# Gestor de Partidas de Jogo de Cartas
+Nomeado temporariamente de `Verseus`.
+
+Aplicativo desenvolvido com KMP para gestão de partidas do jogo de cartas criado por Vinicius Mendes.
+
+## Mensagem do template
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
